@@ -6,7 +6,7 @@ I am a *communication and information technology student* who is passionate abou
 
 ![Squirrel](./orava.png)
 
-I sutdy at [Oulu University of Applied Sciences]([https://duckduckgo.com](https://oamk.fi/)).
+I sutdy at [Oulu University of Applied Sciences](https://oamk.fi/).
 
 ## ***My Skills***
 
