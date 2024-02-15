@@ -1,28 +1,30 @@
 # My Awesome Website
 
-## *About Me*
+## About Me
 
-I'm a software developer passionate about creating amazing web applications.
+I am a communication and information technology student who is passionate about creating amazing web applications.
 
 ## My Skills
 
 - HTML
 - CSS
 - JavaScript
-- Python
-- React
+- C++
+
 
 ## Projects
 
-### Project 1: Portfolio Website
-
 Check out my portfolio website to see my latest projects!
 
-### Project 2: Blog Application
+### Project 1: Piirto-ohjelma
 
-I built a blog application using Django. Check it out [here](https://example.com/blog).
+I made a drawing program that can draw circles, squares, rectangles and lines
+
+### Project 2: Noppa 
+
+I made a dice game. Clicking the dice draws a new dice number
 
 ## Contact Me
 
-Feel free to reach out to me at [myemail@example.com](mailto:myemail@example.com).
+Feel free to reach out to me at [t2ahja01@students.oamk.fi](mailto:t2ahja01@students.oamk.fi.)
 
