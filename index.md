@@ -1,6 +1,6 @@
 # My Awesome Website
 
-## About Me
+## *About Me*
 
 I'm a software developer passionate about creating amazing web applications.
 
