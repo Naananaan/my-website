@@ -4,7 +4,7 @@
 
 I am a *communication and information technology student* who is passionate about creating amazing web applications.
 
-![Image Alt Text](image_url)
+![Squirrel](./orava.png)
 
 I sutdy at [Oulu University of Applied Sciences]([https://duckduckgo.com](https://oamk.fi/)).
 
